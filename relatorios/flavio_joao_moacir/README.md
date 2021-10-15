@@ -57,10 +57,10 @@
 
 Melhor solução eleicao-ursal-fastread.c
 
-<p align="center">  <img src="./img/fs_seq_ta.png" width="700"></p>
-<p align="center">  <img src="./img/fs_io_tas.png" width="700"></p>
-<p align="center">  <img src="./img/fs_io_g.png" width="700"></p>
-<p align="center">  <img src="./img/fs_seq_p.png" width="700"></p>
+<p align="center">  <img src="./img/fs_seq_ta.png" width="1100"></p>
+<p align="center">  <img src="./img/fs_io_tas.png" width="1100"></p>
+<p align="center">  <img src="./img/fs_io_g.png" width="1100"></p>
+<p align="center">  <img src="./img/fs_seq_p.png" width="1100"></p>
 
 
 #### Comparação de soluções antigas da equipe
@@ -83,11 +83,11 @@ Melhor solução eleicao-ursal-fastread.c
 
 Arquivo file11
 
-<p align="center">  <img src="./img/comp.png" width="700"></p>
+<p align="center">  <img src="./img/comp.png" width="1100"></p>
 
 #### Link apresentação  
 
-<p align="left">  <img src="./img/eleicao_ursal.gif" width="300"></p>
+<p align="left">  <img src="./img/eleicao_ursal.gif" width="400"></p>
 
 https://www.canva.com/design/DAEss4rM_4c/xNgnYX2ocNzcf3DFcF-y_Q/view?utm_content=DAEss4rM_4c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
